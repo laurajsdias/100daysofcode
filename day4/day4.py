@@ -1,3 +1,5 @@
+# Day 4 - Lists and randomisation
+
 import random
 
 rock = '''
