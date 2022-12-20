@@ -1,4 +1,4 @@
-# Day 8 - Functions with Inputs / Arguments & Parameters
+# Day 8 - Functions with Inputs (Arguments & Parameters)
 
 # Build a Cipher Program (Caesar Cipher)
 
