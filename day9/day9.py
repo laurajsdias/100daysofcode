@@ -1,4 +1,5 @@
-# Day 9 - Dictionaries and Nesting. Project: Secret Auction
+# Day 9 - Dictionaries and Nesting. 
+# Project: Secret Auction
 
 # A dictionary has a key and a value associated to this key.
 # {Key: Value}
