@@ -1,3 +1,5 @@
+# Day 6 - Creating functions
+
 # To create a function, you need to start with a keyword called 'def'
 # def my_function():
     #Do this
